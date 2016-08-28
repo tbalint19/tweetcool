@@ -1,0 +1,3 @@
+ * Running on http://0.0.0.0:9876/ (Press CTRL+C to quit)
+127.0.0.1 - - [28/Aug/2016 19:13:30] "GET /tweet?offset=-10 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2016 19:20:52] "GET /tweet?offset=10 HTTP/1.1" 200 -

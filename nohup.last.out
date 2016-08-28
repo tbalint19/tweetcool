@@ -1,0 +1,16 @@
+ * Running on http://0.0.0.0:9876/ (Press CTRL+C to quit)
+127.0.0.1 - - [28/Aug/2016 19:08:16] "GET /tweet?limit=20 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2016 19:08:23] "POST /tweet HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2016 19:08:23] "GET /tweet?limit=20 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2016 19:08:24] "POST /tweet HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2016 19:08:24] "GET /tweet?limit=20 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2016 19:08:26] "POST /tweet HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2016 19:08:26] "GET /tweet?limit=20 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2016 19:08:27] "POST /tweet HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2016 19:08:27] "GET /tweet?limit=20 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2016 19:08:30] "POST /tweet HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2016 19:08:30] "GET /tweet?limit=20 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2016 19:08:32] "POST /tweet HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2016 19:08:32] "GET /tweet?limit=20 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2016 19:08:33] "POST /tweet HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2016 19:08:33] "GET /tweet?limit=20 HTTP/1.1" 200 -
